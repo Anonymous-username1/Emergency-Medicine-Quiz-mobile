@@ -356,7 +356,7 @@ const quizData = [[
     {
         question: `An 81yo woman developed epigastric pain, nausea, vomiting, and shortness of breath, 6 hours ago whilst watching television and having dinner. She has a past medical history of osteoarthritis. Her daughter called 111, an ambulance arrived and assessed her. On examination her pulse was 112/min, respiratory rate 19/min, SpO2 95%, and blood pressure 108/72 mmHg. She was blue lighted to the University hospital where you work.
         
-        You order serial troponins, and perform an ECG was performed, which is shown below.
+        You order serial troponins, and perform an ECG, which is shown below.
         
         What is the most definitive management plan for this woman?`,
         image: `https://litfl.com/wp-content/uploads/2018/08/ECG-Anterior-STEMI-evolving.jpg.webp`,
