@@ -41,18 +41,18 @@ const quizData = [[
         question: `A 65-year-old gentleman presents with a 3 week history of general malaise, decreased oral intake and drowsiness. He has a past medical history of ischaemic heart disease, type 2 diabetes mellitus and gastritis. He lives alone with no carers and normally mobilises independently. A concerned neighbour went in to check on him after he was not seen for a few days. On examination his mouth is dry with reduced skin turgor. Heart sounds are normal, chest is clear, abdominal palpation reveals lower abdominal tenderness. ECG shows sinus tachycardia. Urine dip shows ketones +, glucose +++.
         
         His Bloods show:
-        Hb 140g/l
-        Platelets 525 * 10^9/l      
-        WCC 14 * 10^9/l             
-        Neut 10 * 10^9/l            
-        Lymphs 2 * 10^9/l           
-        Eosin 0.5 * 10^9/l
+        Hb 140g/l (135-180)
+        Platelets 525 * 10^9/l (150-400)     
+        WCC 14 * 10^9/l (4.0-11.0)        
+        Neut 10 * 10^9/l (2.0-7.0)           
+        Lymphs 2 * 10^9/l (1.0-3.0)       
+        Eosin 0.5 * 10^9/l (0-0.5)
 
-        Na+ 150 mmol/l
-        K+ 4.2 mmol/l
-        Urea 13 mmol/l
-        Creatinine 160µmol/l
-        CRP 56 mg/l
+        Na+ 150 mmol/l (135-145)
+        K+ 4.2 mmol/l (3.5-5.0)
+        Urea 13 mmol/l (2.0-7.0)
+        Creatinine 160µmol/l (55-120)
+        CRP 56 mg/l (< 10)
         
         Venous blood gas shows no signs of acidosis. Formal blood glucose is phoned back as 40 mmol/l. So you start IV fluids, and 6 hours later the blood glucose no longer respond to fluids. What is the most important next step?`,
         image: 'none',
@@ -117,12 +117,12 @@ const quizData = [[
 
         Blood tests show:
         Creatinine 447 µmol/l (baseline 135 µmol/l)
-        Hb 87 g/L
-        MCV 88 fL
-        WCC 18 * 109/L
-        Neut 9 * 109/L
-        Eosin 1.17 * 109/L
-        CRP 147 mg/L
+        Hb 87 g/L (135-180)
+        MCV 88 fL (82-100)
+        WCC 18 * 10^9/L (4.0-11.0)
+        Neut 9 * 10^9/L (2.0-7.0)
+        Eosin 1.17 * 10^9/L (0-0.5)
+        CRP 147 mg/L (< 10)
 
         You calculate his eGFR to be 41 and diagnose this patient with AKI stage 3 on CKD stage 3b. What immediate assessments would you perform to rule out the most serious complications?`,
         image: `none`,
@@ -196,7 +196,7 @@ const quizData = [[
         Today she says that she has passed roughly 500ml urine in the last 24 hours. She weighs 75kg. O/E her pulse is 110 bpm, respiratory rate is 22 breaths/min, blood pressure is 168/93 mmHg. Capillary ketone is 0.2mmol/l, and capillary glucose is 26 mmol/l.
         
         Her bloods show:
-        Haemoglobin 107 g/l    (<125)
+        Haemoglobin 107 g/l    (115-160)
         WBC 16.4x10^9 /l    (135-180)
         Platelets 389x10^3 mmol/l    (150 - 400)
         Neutrophils 14.4x10^9 /l    (2.5-6.0)
@@ -430,7 +430,7 @@ const quizData = [[
         question: `A 41-year-old woman with a history of chronic kidney disease stage 4 is admitted to the ED with breathlessness. She complains of sharp pain in the right side of his chest and is visibly breathless at rest. On examination, JVP is elevated, his heart rate is 119 bpm, blood pressure is 108/67 mmHg, oxygen saturation is 91% on air, and temperature is 37.8. Examination of his chest is normal. 
 
         Blood tests are performed, and the results are shown below:
-        Hb 141 g/l     (>135)
+        Hb 141 g/l     (115-160)
         Platelets 356 * 10^9/l     (150-400)
         WBC 6.9 * 10^9/l     (4.0-11.0)
         Urea 8.8 mmol/l     (2.0-7.0)
@@ -461,7 +461,7 @@ const quizData = [[
         On examination, her pulse is 107/min, respiratory rate is 21/min, oxygen saturation is 98% on air, and blood pressure is 123/81 mmHg, her examination findings are otherwise normal.
         
         Blood tests are performed:
-        Hb 129 g/l     (>125)
+        Hb 129 g/l     (115-160)
         Platelets 325 * 10^9/l     (150-400)
         WBC 6.9 * 10^9/l     (4.0-11.0)
         Urea 8.4 mmol/l     (2.0-7.0)
