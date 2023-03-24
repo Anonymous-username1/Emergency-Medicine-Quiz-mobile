@@ -196,7 +196,7 @@ const quizData = [[
         Today she says that she has passed roughly 500ml urine in the last 24 hours. She weighs 75kg. O/E her pulse is 110 bpm, respiratory rate is 22 breaths/min, blood pressure is 168/93 mmHg. Capillary ketone is 0.2mmol/l, and capillary glucose is 26 mmol/l.
         
         Her bloods show:
-        Haemoglobin 10.7 g/l    (<125)
+        Haemoglobin 107 g/l    (<125)
         WBC 16.4x10^9 /l    (135-180)
         Platelets 389x10^3 mmol/l    (150 - 400)
         Neutrophils 14.4x10^9 /l    (2.5-6.0)
