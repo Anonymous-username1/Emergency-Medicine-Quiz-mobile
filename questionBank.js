@@ -427,7 +427,7 @@ const quizData = [[
         `,
     },
     {
-        question: `A 41-year-old woman with a history of chronic kidney disease stage 4 is admitted to the ED with breathlessness. She complains of sharp pain in the right side of his chest and is visibly breathless at rest. On examination, JVP is elevated, his heart rate is 119 bpm, blood pressure is 108/67 mmHg, oxygen saturation is 91% on air, and temperature is 37.8. Examination of his chest is normal. 
+        question: `A 41-year-old woman with a history of chronic kidney disease stage 4 is admitted to the ED with breathlessness. She complains of sharp pain in the right side of his chest and is visibly breathless at rest. On examination, JVP is elevated, her heart rate is 119 bpm, blood pressure is 108/67 mmHg, oxygen saturation is 91% on air, and temperature is 37.8. Examination of her chest is normal. 
 
         Blood tests are performed, and the results are shown below:
         Hb 141 g/l     (115-160)
