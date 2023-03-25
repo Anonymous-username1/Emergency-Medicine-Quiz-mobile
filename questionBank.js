@@ -427,7 +427,7 @@ const quizData = [[
         `,
     },
     {
-        question: `A 41-year-old woman with a history of chronic kidney disease stage 4 is admitted to the ED with breathlessness. She complains of sharp pain in the right side of his chest and is visibly breathless at rest. On examination, JVP is elevated, her heart rate is 119 bpm, blood pressure is 108/67 mmHg, oxygen saturation is 91% on air, and temperature is 37.8. Examination of her chest is normal. 
+        question: `A 41-year-old woman with a history of chronic kidney disease stage 4 is admitted to the ED with breathlessness. She complains of sharp pain in the right side of her chest and is visibly breathless at rest. On examination, JVP is elevated, her heart rate is 119 bpm, blood pressure is 108/67 mmHg, oxygen saturation is 91% on air, and temperature is 37.8. Examination of her chest is normal. 
 
         Blood tests are performed, and the results are shown below:
         Hb 141 g/l     (115-160)
@@ -448,11 +448,11 @@ const quizData = [[
         correct: "d",
         explanationTitle:"Pulmonary Embolism",
         link: 'https://sites.google.com/exeter.ac.uk/revision-guide/home/pulmonary-embolism',
-        explanation: `This woman has oxygen saturations of 91% on air, is tachycardic and presents with pleuritic chest pain with a normal examination finds. This makes pulmonary embolism (PE) likely. Her chest chest X-ray is normal, however this is a common finding with PE.
+        explanation: `This woman has oxygen saturations of 91% on air, is tachycardic and presents with pleuritic chest pain but otherwise normal examination findings. This makes pulmonary embolism (PE) likely. Her chest chest X-ray is normal, however this is a common finding with PE.
         
-        Her Well's Score is 4.5 (tachycardia = 1.5, no other diagnosis = 3) indicating a higher likelihood of PE and need for diagnostic imaging. However, she has significant renal impairment, therefore CTPA is contra-indicated since it delivers iodine-based contrast which would place her at risk of contrast-induced nephropathy and ATN. 
+        Her Well's Score is 4.5 (tachycardia = 1.5, no other diagnosis = 3) indicating a higher likelihood of PE which necessitates diagnostic imaging. However, she has significant renal impairment, therefore CTPA is contra-indicated since it delivers iodine-based contrast which would place her at risk of contrast-induced nephropathy and ATN. 
         
-        Therefore, the correct option is V/Q scan, since it uses small doses of inhaled then injected radio-nucleotides. The dose of radiation dose from this is still lower compared to CT imaging.
+        Therefore, the correct option is V/Q scan, since it uses small doses of inhaled then injected radio-nucleotides instead. The radiation dose from this is lower compared to CT imaging.
         `,
     },
     {
@@ -485,7 +485,7 @@ const quizData = [[
         
         However, since she suffer with antiphospholipid syndrome, apixaban is contra-indicated. A safer option would be warfarin preceded by low molecular weight heparin. 
         
-        Warfarin alone would be inappropriate. Since, initially, it inhibits the anticoagulant Protein C and S resulting in a procoagulant state, then it later inhibits factors 10, 9, 7, and 2 resulting in anticoagulation. However, the initial procoagulant state could be dangerous in some already suffering with a PE. 
+        Warfarin alone would be inappropriate. Since, initially, it inhibits the anticoagulant Protein C and S resulting in a procoagulant state, then it later inhibits factors 10, 9, 7, and 2 resulting in anticoagulation. The initial procoagulant state could be dangerous in someone already suffering from PE.
         
         An inferior vena cava filter is only indicated with repeated VTE.
         `,
@@ -493,7 +493,7 @@ const quizData = [[
     {
         question: `A 39-year-old woman presents to the emergency department short of breath with left-sided pleuritic chest pain. She is previously fit and well and does not see her GP regularly. She hasn’t had recent surgery, has one child aged 8yo, and is not currently taking contraception.
         
-        On examination her heart rate is 105 beats per minute and regular, her chest sounds clear. Her calves are both soft and non-tender. Her blood pressure is 98/67 mmHg.
+        On examination her heart rate is 105/min and regular, her chest sounds clear. Her calves are both soft and non-tender. Her blood pressure is 98/67 mmHg.
         
         An ECG is performed and shown below.
         
