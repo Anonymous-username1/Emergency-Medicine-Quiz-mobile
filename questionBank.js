@@ -315,7 +315,7 @@ const quizData = [[
     {
         question: `An 87yo woman presents to the ED with profuse sweating and palpitations. The symptoms started two hours ago and do not seem to improve. She has a past medical history of type two diabetes mellitus and osteoporosis.
         
-        Her heart rate is 133/min and regular, respiratory rate 21/min, blood pressure 140/92 mmHg and temperature 36.8. On examination, she looks pale and short of breath but is normal for the rest. 
+        Her heart rate is 133/min and regular, respiratory rate 21/min, blood pressure 140/92 mmHg and temperature 36.8. On examination, she looks pale and short of breath but is normal for the rest of the exam. 
         
         What is the most likely diagnosis?`,
         image: `none`,
@@ -329,7 +329,7 @@ const quizData = [[
         explanation: `This patient presents with symptoms of sweating, palpitations, shortness of breath, tachycardia and tachypnoea which are all consistent with myocardial infarction, even if the patient does not complain of chest pain. Elderly patients might not present with the classical features of myocardial infarction (MI). Even more importantly, diabetic patients (as this one) and women are less likely to experience the classical chest pain accompanying myocardial infarctions. Hence, you should always keep it in mind as a differential for each patient presenting with non-specific symptoms.`,
     },
     {
-        question: `You are a junior doctor working a night shift in the ED of a district general hospital. A 58yo man is brought in via ambulance complaining of chest pain and shortness of breath. This is on a background of hypertension, hypercholesterolaemia, atrial fibrillation for which he takes warfarin. You perform an A-E assessment and find that his airway is patent, he has respiratory rate 22 breaths/min, with equal chest expansion, he has pulse 110bpm, and BP of 100/70 mmHg. He is alert with normal blood glucose and is apyrexial. 
+        question: `You are a junior doctor working a night shift in the ED of a district general hospital. A 58yo man is brought in via ambulance complaining of chest pain and shortness of breath. This is on a background of hypertension, hypercholesterolaemia, atrial fibrillation for which he takes warfarin. You perform an A-E assessment and find that his airway is patent, he has respiratory rate 22 breaths/min, with equal chest expansion, he has pulse 110/min, and BP of 100/70 mmHg. He is alert with normal blood glucose and is apyrexial. 
         
         An ECG is performed, and this is shown below.
         
@@ -354,7 +354,7 @@ const quizData = [[
         `,
     },
     {
-        question: `An 81yo woman developed epigastric pain, nausea, vomiting, and shortness of breath, 6 hours ago whilst watching television and having dinner. She has a past medical history of osteoarthritis. Her daughter called 111, an ambulance arrived and assessed her. On examination her pulse was 112/min, respiratory rate 19/min, SpO2 95%, and blood pressure 108/72 mmHg. She was blue lighted to the University hospital where you work.
+        question: `An 81yo woman developed epigastric pain, nausea, vomiting, and shortness of breath, 6 hours ago whilst watching television and having dinner. She has a past medical history of osteoarthritis. Her daughter called 111, an ambulance arrived and assessed her. On examination her pulse was 112/min, respiratory rate 19/min, SpO2 95% on air, and blood pressure 108/72 mmHg. She was blue lighted to the University hospital where you work.
         
         You order serial troponins, and perform an ECG, which is shown below.
         
@@ -377,7 +377,7 @@ const quizData = [[
         `,
     },
     {
-        question: `A 60yo man presents to the ED with dull central chest pain, present for two hours since waking up. He also noticed some swelling in his ankles in the past few days. This is on a background of osteoarthritis, acute myocardial infarction two years ago, type 2 diabetes mellitus, and a left lower leg amputation.
+        question: `A 60yo man presents to the ED with dull central chest pain that has been present for two hours since waking up. He also noticed some swelling in his ankles in the past few days. This is on a background of osteoarthritis, acute myocardial infarction two years ago, type 2 diabetes mellitus, and a left lower leg amputation.
         
         On examination, he has bi-basal crackles, you think you hear gallop sounds, and he has pitting oedema to ankles.
         
