@@ -54,7 +54,7 @@ const quizData = [[
         Creatinine 160µmol/l (55-120)
         CRP 56 mg/l (< 10)
         
-        Venous blood gas shows no signs of acidosis. Formal blood glucose is phoned back as 40 mmol/l. So you start IV fluids, and 6 hours later the blood glucose no longer respond to fluids. What is the most important next step?`,
+        Venous blood gas shows no signs of acidosis. Formal blood glucose is phoned back as 40 mmol/l. So you start IV fluids, and 6 hours later the blood glucose no longer responds to fluids. What is the most important next step?`,
         image: 'none',
         a: "Intravenous Insulin Infusion at 0.05 units/kg/hr",
         b: "Low molecular weight Heparin",
@@ -65,7 +65,7 @@ const quizData = [[
         link: 'https://sites.google.com/exeter.ac.uk/revision-guide/home/hyperosmolar-hyperglycaemic-state',
         explanation: `This patient gradually becomes unwell and develops symptoms consistent with poor glucose tolerance. Bloods show a very high capillary glucose of 40mmol/l, and urine dipstick show high glucose content, however urine dipstick also shows low ketones. The patient's serum osmolality works out as (2[Na] + urea + glucose = 2[150] + 13 + 40) 353 mosmol/l. This is greater than the normal range of < 320mosmol/l. This patient is in hyperosmolar hyperglycaemic state. 
         
-        The mainstay of HHS management is with IV fluids much like DKA. However, once serum glucose fail to decrease with fluids, the patient should be started on 0.05 units/kg/hr of Insulin. Therefore, subcutaneous insulin and fixed rate insulin at a rate of 0.1 units/kg/hr would be inappropriate. Patients in HHS will have high serum viscosity; therefore they will require LMWH to prevent VTE, however this comes after the patient is stabilised.
+        The mainstay of HHS management is with IV fluids much like in DKA. However, once serum glucose fail to decrease with fluids, the patient should be started on 0.05 units/kg/hr of Insulin. Therefore, subcutaneous insulin and fixed rate insulin at a rate of 0.1 units/kg/hr would be inappropriate. Patients in HHS will have high serum viscosity; therefore they will require LMWH to prevent VTE, however this comes after the patient is stabilised.
         `,
     },
     {
@@ -95,16 +95,16 @@ const quizData = [[
     {
         question: `An 11-year-old girl is brought into the ED with a 3-day history of abdominal pain, vomiting, polyuria and reduced eating and drinking. She has no past medical history nor is she on any regular medications.
 
-        The patient appears unwell with evidence of significant dehydration, a raised respiratory rate and signs of shock. Blood glucose was 20 mmol/l, blood ketone was 5 mmol/l, and VBG showed severe metabolic acidosis. After, a few hours of aggressive fluid resuscitation and IV Insulin infusions, the girl becomes more irritable, complains of headache, and visual disturbance. What is your next management plan?`,
+        The patient appears unwell with evidence of significant dehydration, a raised respiratory rate and signs of shock. Blood glucose was 20 mmol/l, blood ketone was 5 mmol/l, and VBG showed severe metabolic acidosis. After a few hours of aggressive fluid resuscitation and IV Insulin infusions, the girl becomes more irritable, complains of headache, and visual disturbance. What is your next management plan?`,
         image: 'none',
         a: "Stop treatment and refer to Endocrinology",
-        b: "Presrcibe dexamethasone",
+        b: "Prescribe dexamethasone",
         c: "Add 10% Dextrose at 125ml/hr to the current fluid regime",
         d: "Urgent CT head and senior review",
         correct: "d",
         explanationTitle:"Diabetic Ketoacidosis",
         link: 'https://sites.google.com/exeter.ac.uk/revision-guide/home/diabetic-ketoacidosis',
-        explanation: `This boy presents with symptoms of abdominal pain, nausea and vomiting. He has elevated blood ketones, a blood sugar > 11 mmol/L and a pH of < 7.30, so he meets diagnostic criteria for diabetic ketoacidosis (DKA). He is appropriately treated with intravenous fluids and insulin. However, an important complication of rapid fluid resuscitation in DKA is cerebral oedema, which can cause headache, irritability, seizures and ultimately coma and death. 
+        explanation: `This girl presents with symptoms of abdominal pain, nausea and vomiting. She has elevated blood ketones, a blood sugar > 11 mmol/L and a pH of < 7.30, so she meets diagnostic criteria for diabetic ketoacidosis (DKA). She is appropriately treated with intravenous fluids and insulin. However, an important complication of rapid fluid resuscitation in DKA is cerebral oedema, which can cause headache, irritability, seizures and ultimately coma and death. 
         
         IV insulin and fluids can cause a global drop in osmolarity which drives water into neurones. Neurones in the brain are sensitive to swelling as they are trapped in the skull. Children have less room for expansion within their cranial vault compared to adults. Therefore, cerebral oedema occurs in 1% of treatments for DKA, but this is more likely to occur in young patient.
         `,
