@@ -448,7 +448,7 @@ const quizData = [[
         correct: "d",
         explanationTitle:"Pulmonary Embolism",
         link: 'https://sites.google.com/exeter.ac.uk/revision-guide/home/pulmonary-embolism',
-        explanation: `This woman has oxygen saturations of 91% on air, is tachycardic and presents with pleuritic chest pain with a normal examination finds. This makes pulmonary embolism (PE) likely. 
+        explanation: `This woman has oxygen saturations of 91% on air, is tachycardic and presents with pleuritic chest pain with a normal examination finds. This makes pulmonary embolism (PE) likely. Her chest chest X-ray is normal, however this is a common finding with PE.
         
         Her Well's Score is 4.5 (tachycardia = 1.5, no other diagnosis = 3) indicating a higher likelihood of PE and need for diagnostic imaging. However, she has significant renal impairment, therefore CTPA is contra-indicated since it delivers iodine-based contrast which would place her at risk of contrast-induced nephropathy and ATN. 
         
