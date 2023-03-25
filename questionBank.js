@@ -131,20 +131,20 @@ const quizData = [[
         c: "Kidney USS, renal biopsy, U&Es, urine dipstick",
         d: "CXR, Abdominal CT, kidney USS, VBG",
         correct: "a",
-        explanationTitle:"Acute Kindey Injury",
+        explanationTitle:"Acute Kidney Injury",
         link: 'https://sites.google.com/exeter.ac.uk/revision-guide/home/acute-kidney-injury',
         explanation: `A fall in urine output to less than 0.5ml/kg/hr for more than 6 hours in adults is a criterion for diagnosing AKI. A fall in urine output to < 0.3 ml/kg/hr for ≥ 24 hours is a criterion for diagnosing AKI stage 3. The rise in creatinine by more than 3 times the baseline confirms this.
         
-        The initial investigations for AKI should focus on ruling out the life threatening features that necessitate referral to Nephrology or ITU for dialysis. This includes signs of uraemia, pulmonary oedema, hyperkalaemia, and acidosis (pH < 7.1). These would be investigated with clinical assessment, CXR, U&Es, and VBG respectively. 
+        The initial investigations for AKI should focus on ruling out the life threatening features that necessitate referral to Nephrology or ITU for renal replacement therapy. This includes signs of uraemia, pulmonary oedema, hyperkalaemia, and acidosis (pH < 7.1). These would be investigated with clinical assessment, CXR, U&Es, and VBG respectively. 
         `,
     },
     {
-        question: `A 44yo man is referred to the renal team. He has a long history of chronic sinusitis and was investigated last year for haemoptysis but no cause was found. Recently he is being investigated for hypertension. A number of recent urine dipstick tests has shown persistent microscopic haematuria.
+        question: `A 44yo man is referred to the renal team. He has a long history of chronic sinusitis and was investigated last year for haemoptysis but no cause was found. Recently he was being investigated for hypertension. A number of recent urine dipstick tests have shown persistent microscopic haematuria.
         
         You have ruled out life-threatening features requiring dialysis.
         
         Blood tests show:
-        Na+ 140mmol/l (135-145)
+        Na+ 140 mmol/l (135-145)
         K+ 4.8 mmol/l (3.5-4.5)
         Urea 11.1 mmol/l (2.0-7)
         Creatinine 145 µmol/l (baseline 70)
@@ -156,11 +156,11 @@ const quizData = [[
         c: "Kidney and bladder USS",
         d: "FBC, eosinophils, Creatine Kinase, Albumin, urine myoglobin",
         correct: "b",
-        explanationTitle:"Acute Kindey Injury",
+        explanationTitle:"Acute Kidney Injury",
         link: 'https://sites.google.com/exeter.ac.uk/revision-guide/home/acute-kidney-injury',
-        explanation: `This man has elevated creatine, decreased BUN, on a background of chronic sinusitis, investigation for haemoptysis, and hypertension. 
+        explanation: `This man has elevated creatine, decreased UCR, on a background of chronic sinusitis, investigation for haemoptysis, and hypertension. 
         
-        The history and the BUN ratio are specific for an intra-renal cause for his AKI, furthermore his urine shows microscopic haematuria. 
+        The history and the urea-creatinine ratio are specific for an intra-renal cause for his AKI, furthermore his urine shows microscopic haematuria. 
         
         This rules out renal artery stenosis (investigated with renal artery USS), and post-renal obstruction (investigated with kidney and bladder USS). 
         
@@ -186,18 +186,18 @@ const quizData = [[
         c: "Insulin + Dextrose",
         d: "Sodium Zirconium Cyclosilicate",
         correct: "d",
-        explanationTitle:"Acute Kindey Injury",
+        explanationTitle:"Acute Kidney Injury",
         link: 'https://sites.google.com/exeter.ac.uk/revision-guide/home/acute-kidney-injury',
         explanation: `Calcium gluconate is the initial management step, to stabilise the myocardium. Insulin + Dextrose, and Salbutamol might be the next management steps to rapidly lower his serum potassium. However, they will only cause a transient intracellular shift of this potassium. Sodium Zirconium Cyclosilicate definitively gets rid of potassium from the body.`,
     },
     {
         question: `A 75yo woman is admitted to ED after 11 days ago she developed nausea, vomiting, reduced appetite, and having bowels not open. This is on a background of type 2 diabetes, CKD 3a, and hypertension. She takes Linagliptin, Amitriptyline, atorvastatin, gliclazide, metformin, and losartan. 
         
-        Today she says that she has passed roughly 500ml urine in the last 24 hours. She weighs 75kg. O/E her pulse is 110 bpm, respiratory rate is 22 breaths/min, blood pressure is 168/93 mmHg. Capillary ketone is 0.2mmol/l, and capillary glucose is 26 mmol/l.
+        Today she says that she has passed roughly 500ml of urine in the last 24 hours. She weighs 75kg. O/E her pulse is 110 bpm, respiratory rate is 22 breaths/min, blood pressure is 168/93 mmHg. Capillary ketone is 0.2mmol/l, and capillary glucose is 26 mmol/l.
         
         Her bloods show:
         Haemoglobin 107 g/l    (115-160)
-        WBC 16.4x10^9 /l    (135-180)
+        WBC 16.4x10^9 /l    (4.0-11.0)
         Platelets 389x10^3 mmol/l    (150 - 400)
         Neutrophils 14.4x10^9 /l    (2.5-6.0)
         Na 129 mmol/l    (135-145)
@@ -221,9 +221,9 @@ const quizData = [[
         correct: "d",
         explanationTitle:"Acute Kindey Injury",
         link: 'https://sites.google.com/exeter.ac.uk/revision-guide/home/acute-kidney-injury',
-        explanation: `This patient presents with a prolonged period of being unwell. Over time, her blood glucose has risen to 26 mmol/l. However, ketones are normal, and her osmolality is high (since 2[Na] + urea + glucose, for her 2[129] + 49.7 + 26 = 335.1 mosmol/kg, and 335.1 > 320). This patient is in Hyperosmolar hyperglycaemic state. Furthermore, she has passed < 0.3ml/kg/hr of urine in 24 hours (500 / 24 / 75 = 0.28ml/kg/hr), so she is in AKI stage 3. 
+        explanation: `This patient presents with a prolonged period of being unwell. Over time, her blood glucose levels have risen to 26 mmol/l. However, ketones are normal, and her osmolality is high (since 2[Na] + urea + glucose, for her 2[129] + 49.7 + 26 = 335.1 mosmol/kg, and 335.1 > 320). This patient is in Hyperosmolar hyperglycaemic state. Furthermore, she has passed < 0.3ml/kg/hr of urine in 24 hours (500 / 24 / 75 = 0.28ml/kg/hr), so she is in AKI stage 3. 
         
-        Her pH is below 7.10 and her BP is stable, these are both indications for haemodialysis which she can receive if she was referred to the renal department. It would be incorrect to refer her to ITU as they will look after haemodynamically unstable patients who would benefit more from hemofiltration Since, unstable patients are more likely to develop shock if they receive dialysis. Prescribing IV fluid or insulin would be inappropriate since this patient is in AKI and need dialysis.
+        Her pH is below 7.10 and her BP is stable, these are both indications for haemodialysis which she can receive if she was referred to the renal department. It would be inappropriate to refer her to ITU as they will look after hemodynamically unstable patients. These patients would benefit more from haemofiltration as they are at greater risk of developing shock if they receive haemodialysis instead. Prescribing IV fluid or insulin would be inappropriate since this patient is in AKI and needs dialysis.
         `,
 
     },
@@ -239,7 +239,7 @@ const quizData = [[
         What is the initial management step?`,
         image: `https://prod-images-static.radiopaedia.org/images/3251974/11274cdbb5fa0a305ab53bdf31ecc8_big_gallery.jpg`,
         a: "Rapid blood pressure lowering",
-        b: "IV vitamin K and PCC", 
+        b: "Atorvastatin", 
         c: "Aspirin 300mg",
         d: "Slowly reduce blood pressure and refer to Neurosurgery",
         correct: "a",
@@ -247,12 +247,12 @@ const quizData = [[
         link: 'https://sites.google.com/exeter.ac.uk/revision-guide/home/stroke',
         explanation: `The patient describes symptoms consistent with stroke. He takes warfarin and so is at high risk of bleeding. His CT scan demonstrates a hyperdense region in the right hemisphere with midline shift, which confirms an intracerebral haemorrhage. This rules out the option of Aspirin 300mg because this would worsen his bleed. 
         
-        His blood pressure is 189/124 mmHg. Despite him actively bleeding, the guidelines recommend early rapid blood pressure control with IV antihypertensives (such as Isosorbide dinitrate) within 6 hours of symptom onset, before anticoagulation reversal. Slow blood pressure lowering, and neurosurgery referral are unlikely to be quick enough, and IV vitamin K and PCC will come second to antihypertensives. Therefore, both these options are not the best options.
+        His blood pressure is 189/124 mmHg, therefore the guidelines recommend early rapid blood pressure control with IV antihypertensives (such as Isosorbide dinitrate) within 6 hours of symptom onset. This should be performed alongside anticoagulant reversal. Slow blood pressure lowering and neurosurgery referral are unlikely to be quick enough, and atorvastatin has no place in the management of intracerebral haemorrhage. Therefore, both these options are not the best options.
         `,
     }, {
-        question: `A 64yo man presents to the ED via ambulance. Four hours earlier, he noticed some speech difficulties and his wife phoned to emergency services. He has a past medical history of hypertension, atrial fibrillation and hypercholesterolaemia and is on regular atorvastatin and ramipril. Previously, he elected not to be anticoagulated for atrial fibrillation. He smokes ten cigarettes per day, drinks alcohol occasionally and is the director of a language school. 
+        question: `A 64yo man presents to the ED via ambulance. Four hours earlier, he noticed some speech difficulties and his wife phoned emergency services. He has a past medical history of hypertension, atrial fibrillation and hypercholesterolaemia and is on regular atorvastatin and ramipril. Previously, he elected not to be anticoagulated for atrial fibrillation. He smokes ten cigarettes per day, drinks alcohol occasionally and is the director of a language school. 
         
-        On examination, he has an expressive dysphasia. There is evidence of left-sided hemiplegia, sensory loss, and homonymous hemianopia.
+        On examination, he has expressive dysphasia. There is evidence of left-sided hemiplegia, sensory loss, and homonymous hemianopia.
         
         An urgent CT head is organised (the image is shown below) 
         
@@ -265,7 +265,7 @@ const quizData = [[
         correct: "a",
         explanationTitle:"Stroke",
         link: 'https://sites.google.com/exeter.ac.uk/revision-guide/home/stroke',
-        explanation: `This patient presents with a higher centre dysfunction (expressive dysphasia), unilateral loss of sensory and motor function (left-sided hemiplegia and sensory loss), and visual disturbance (homonymous hemianopia) within 4.0 hours onset. This patient's symptoms are consistent with a total anterior circulation stroke. 
+        explanation: `This patient presents with a higher order brain dysfunction (expressive dysphasia), unilateral loss of sensory and motor function (left-sided hemiplegia and sensory loss), and visual disturbance (homonymous hemianopia) within 4.0 hours onset. This patient's symptoms are consistent with a total anterior circulation stroke. 
         
         Furthermore, his CT head shows evidence of occlusion of the proximal anterior circulation demonstrated by the right middle cerebral artery sign. To consolidate this, it would also need to be demonstrated by computed tomographic angiography (CTA) or magnetic resonance angiography (MRA)
         
@@ -275,7 +275,7 @@ const quizData = [[
         `,
     }, 
     {
-        question: `A 54yo man is brought to hospital by ambulance complaining of strange symptoms. On review in the emergency department, he is unable to speak although he is able to follow instruction which have been written down. There is a past medical history of hypertension, and type 2 diabetes.
+        question: `A 54yo man is brought to hospital by ambulance complaining of strange symptoms. On review in the emergency department, he is unable to speak although he is able to follow instructions which have been written down. There is a past medical history of hypertension, and type 2 diabetes.
         
         A blockage of which of the following cerebral arteries most likely caused this man's symptoms?`,
         image: `none`,
@@ -286,9 +286,9 @@ const quizData = [[
         correct: "c",
         explanationTitle:"Stroke",
         link: 'https://sites.google.com/exeter.ac.uk/revision-guide/home/stroke',
-        explanation: `This man's symptoms point towards an aphasia. He is unable to speak, he is unable to understand language unless this Is written down in the form of instructions. This is most likely global aphasia, which is a higher order brain dysfunction. Together with his history of hypertension, and type 2 diabetes, it is evident that he might be suffering from a stroke. 
+        explanation: `This man's symptoms point towards aphasia. He is unable to speak, he is unable to understand language unless this is written down in the form of instructions. This is most likely global aphasia, which is a higher order brain dysfunction. Together with his history of hypertension, and type 2 diabetes, it is evident that he might be suffering from a stroke. 
         
-        90% of right handed individuals and 60% of left handed individuals have a dominant left hemisphere. Therefore, in the majority of cases, there is dominant left hemisphere. The left middle cerebral artery supplies the dominant hemisphere which contains both Wernicke's and Broca's areas of the cortex (which are responsible for understanding and producing speech). The other vessels, if affected would not cause the patient to become aphasic.
+        90% of right handed individuals and 60% of left handed individuals have a dominant left hemisphere. Therefore, in the majority of cases, there is a dominant left hemisphere. The left middle cerebral artery supplies the dominant hemisphere which contains both Wernicke's and Broca's areas of the cortex (which are responsible for understanding and producing speech). The other vessels, if affected, would not cause the patient to become aphasic.
         `,
     }, {
         question: `A 63yo woman is brought into resus drowsy. Soon after admission she begins shaking and requires 4mg IV lorazepam which stops the seizure. This is on a background of poorly controlled hypertension, type 2 diabetes, and fibromyalgia. She is poorly compliant with her medications (ramipril, fluoxetine, paracetamol, and oral morphine syrup) and has no known drug allergies. On examination, she has GCS 9, pinpoint pupils, left sided facial droop, and is noted to have weakness of all four limbs.
@@ -302,11 +302,11 @@ const quizData = [[
         correct: "d",
         explanationTitle:"Stroke",
         link: 'https://sites.google.com/exeter.ac.uk/revision-guide/home/stroke',
-        explanation: `This patient is presenting with symptoms consistent with pontine haemorrhage. This is supported by her reduced GCS, seizure activity, and four limb paralysis, and facial droop. The patient has sudden onset of significant, life-threatening symptoms and is likely to, therefore have a large expanding haematoma. 
+        explanation: `This patient is presenting with symptoms consistent with pontine haemorrhage. This is supported by her reduced GCS, seizure activity, four limb paralysis, and facial droop. The patient has a sudden onset of significant, life-threatening symptoms and is therefore likely to have a large expanding haematoma. 
         
         Although this presentation seems similar to that of opioid overdose, the facial droop should point more towards stroke. Her pinpoint pupils rule out fluoxetine overdose which causes dilated pupils.  Patients also tend to present as agitated, restless, with tachycardia and hypertension instead. 
         
-        With lateral medullary syndrome, the patient would have presented with loss of temperature and pain sensation to ipsilateral face and contralateral trunk and limbs, with slurring of speech, and ataxic gait. Prognosis is poor for this patient – overall mortality for pontine haemorrhage is 30-90% depending on the rate of reduction in GCS and significance of symptoms at onset.
+        With lateral medullary syndrome, the patient would have presented with loss of temperature and pain sensation of the ipsilateral face and contralateral trunk and limbs, with slurring of speech, and ataxic gait. Prognosis is poor for this patient – overall mortality for pontine haemorrhage is 30-90% depending on the rate of reduction in GCS and significance of symptoms at onset.
         `,
 
     },
