@@ -315,7 +315,7 @@ const quizData = [[
     {
         question: `An 87yo woman presents to the ED with profuse sweating and palpitations. The symptoms started two hours ago and do not seem to improve. She has a past medical history of type two diabetes mellitus and osteoporosis.
         
-        Her heart rate is 133/min and regular, respiratory rate 21/min, blood pressure 140/92 mmHg and temperature 36.8. On examination, she looks pale and short of breath but is normal for the rest of the exam. 
+        Her heart rate is 133/min and regular, respiratory rate is 21/min, blood pressure is 140/92 mmHg and temperature is 36.8. On examination, she looks pale and short of breath but is normal for the rest of the exam. 
         
         What is the most likely diagnosis?`,
         image: `none`,
@@ -354,7 +354,7 @@ const quizData = [[
         `,
     },
     {
-        question: `An 81yo woman developed epigastric pain, nausea, vomiting, and shortness of breath, 6 hours ago whilst watching television and having dinner. She has a past medical history of osteoarthritis. Her daughter called 111, an ambulance arrived and assessed her. On examination her pulse was 112/min, respiratory rate 19/min, SpO2 95% on air, and blood pressure 108/72 mmHg. She was blue lighted to the University hospital where you work.
+        question: `An 81yo woman developed epigastric pain, nausea, vomiting, and shortness of breath, 6 hours ago whilst watching television and having dinner. She has a past medical history of osteoarthritis. Her daughter called 111, an ambulance arrived and assessed her. On examination her pulse was 112/min, respiratory rate was 19/min, SpO2 was 95% on air, and blood pressure was 108/72 mmHg. She was blue lighted to the University hospital where you work.
         
         You order serial troponins, and perform an ECG, which is shown below.
         
